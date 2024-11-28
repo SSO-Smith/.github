@@ -1,4 +1,4 @@
-[![Flagfox - A better way to implement and manage feature flagging in Laravel.](https://github.com/SSO-Smith/marketing-site-vue/blob/main/src/assets/img/github-readme-image.png)](https://www.ssosmith.dev)
+[![SSO Smith - Effortless SSO integration for Laravel developers.](https://github.com/SSO-Smith/marketing-site-vue/blob/main/src/assets/img/github-readme-image.png)](https://www.ssosmith.dev)
 
 
 # SSO Smith  
